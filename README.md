@@ -149,7 +149,7 @@ function enviarWhatsApp() {
 
 💳 Pagamento via Pix`;
 
-  const url = "https://wa.me/51989413011?text=" + encodeURIComponent(texto);
+  const url = "https://Wa.me/555198941-3011?text=" + encodeURIComponent(texto);
   window.open(url, "_blank");
 }
 </script>
